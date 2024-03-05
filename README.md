@@ -1,6 +1,6 @@
 ## <a name="introduction">💻 AWS IoT Configuration Guide for ESP8266</a>
 
-<img src="https://github.com/rch-goldsnaker/aws-esp8266/banner.png" alt="Project Banner">
+<img src="https://github.com/rch-goldsnaker/aws-esp8266/blob/main//banner.png" alt="Project Banner">
 
 ## 📋 <a name="table">Table of Contents</a>
 
