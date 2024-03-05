@@ -9,7 +9,6 @@
 3. 🔋 [Features](#features)
 4. 💻 [Youtube tutorial](#youtube)
 5. 🤸 [Quick Start](#quick-start)
-6. 🚀 [Deploy](#deploy)
    
 ## <a name="introduction">🤖 Introduction</a>
 
