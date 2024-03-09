@@ -36,7 +36,7 @@ This repository has code for an ESP8266-based MQTT client. It connects to AWS Io
 
 ## <a name="youtube">💻 Youtube tutorial</a>
 
-See tutorial video [here](https://youtu.be/-OBl3Ui-sNc?si=qvDpTz9kCGNXza1s)
+See tutorial video [here](https://youtu.be/xZoeJ-osS3g)
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
