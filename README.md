@@ -12,7 +12,9 @@
    
 ## <a name="introduction">🤖 Introduction</a>
 
-This repository has code for an ESP8266-based MQTT client. It connects to AWS IoT Core service. The device sends random temperature and humidity data to an MQTT topic regularly. It also listens to another topic for commands.
+We combine the power of Amazon Web Services' (AWS) Internet of Things (IoT) platform with the versatile ESP8266 microcontroller in this project. Here's how to connect an ESP8266 device to AWS IoT Core using the MQTT (Message Queuing Telemetry Transport) protocol, enabling secure bidirectional communication between the device and the cloud.
+This integration provides a solid foundation for building scalable and secure IoT applications. We'll learn how to establish WiFi connection, synchronize time with NTP servers, configure SSL/TLS certificates for secure communication, and send and receive data in JSON format via MQTT.
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -34,7 +36,7 @@ This repository has code for an ESP8266-based MQTT client. It connects to AWS Io
 
 👉 Sending Random Data: It sends randomly generated temperature and humidity data in a format that's easy for other devices to understand.
 
-## <a name="youtube">💻 Youtube tutorial</a>
+## <a name="youtube">🎬 Youtube tutorial</a>
 
 See tutorial video [here](https://youtu.be/xZoeJ-osS3g)
 
@@ -46,15 +48,15 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- Git (https://git-scm.com/)
-- Arduino IDE (https://www.arduino.cc/en/software)
+- [Git](https://git-scm.com/)
+- [Arduino IDE](https://www.arduino.cc/en/software)
 
 Install Board:
-- esp8266 by ESP8266 Community (https://github.com/esp8266/Arduino)
+- [esp8266 by ESP8266 Community](https://github.com/esp8266/Arduino)
 
 Install library:
-- PubSubClient by Nick O’Leary (https://pubsubclient.knolleary.net/)
-- ArduinoJson by Benoit Blanchon (https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
+- [PubSubClient by Nick O’Leary](https://pubsubclient.knolleary.net/)
+- [ArduinoJson by Benoit Blanchon](https://arduinojson.org/?utm_source=meta&utm_medium=library.properties)
 
 **Cloning the Repository**
 
